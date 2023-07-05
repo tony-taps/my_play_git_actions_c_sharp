@@ -1,0 +1,29 @@
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\appsettings.Development.json
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\appsettings.json
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\Eiffel Hub.exe
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\Eiffel Hub.deps.json
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\Eiffel Hub.runtimeconfig.json
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\Eiffel Hub.runtimeconfig.dev.json
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\Eiffel Hub.dll
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\ref\Eiffel Hub.dll
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\Eiffel Hub.pdb
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\Eiffel Hub.csproj.AssemblyReference.cache
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\Eiffel Hub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\Eiffel Hub.AssemblyInfoInputs.cache
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\Eiffel Hub.AssemblyInfo.cs
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\Eiffel Hub.csproj.CoreCompileInputs.cache
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\Eiffel Hub.MvcApplicationPartsAssemblyInfo.cs
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\Eiffel Hub.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\staticwebassets\Eiffel Hub.StaticWebAssets.Manifest.cache
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\staticwebassets\Eiffel Hub.StaticWebAssets.xml
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\scopedcss\bundle\Eiffel Hub.styles.css
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\Eiffel Hub.RazorTargetAssemblyInfo.cache
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\Eiffel Hub.csproj.CopyComplete
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\Eiffel Hub.dll
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\ref\Eiffel Hub.dll
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\Eiffel Hub.pdb
+C:\Projects\Eiffel Hub\Eiffel Hub\Eiffel Hub\obj\Debug\net5.0\Eiffel Hub.genruntimeconfig.cache

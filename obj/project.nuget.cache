@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0xTyD8P91iLQp8HxCcE7OtJMq5TFEaL439ounoUs8ys8d/yCJkV1IWC6hhAnv6tdYWchPf8MHj464/v+Htm0Ag==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\Eiffel Hub\\Eiffel Hub\\Eiffel Hub\\Eiffel Hub.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tchigumira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\tchigumira\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\tchigumira\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\tchigumira\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\tchigumira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\tchigumira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
